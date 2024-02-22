@@ -1,0 +1,25 @@
+_repo: La-barca-dels-afligits-b-Marina-en-un-acte_72977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mestres, Apel·les
+    gutenberg_agent_id: '56894'
+    url: http://www.gutenberg.org/2009/agents/56894
+description: ''
+gutenberg_issued: '2024-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72977'
+language: ca
+pgterms:marc905: 20240214093606mestres
+pgterms:marc906: '1916'
+pgterms:marc907: ES
+production_note: Joan Queralt Gil
+publication_note: '  $aBarcelona :$bImprempta d''Art, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'La barca dels afligits : $b Marina en un acte'
+url: http://www.gutenberg.org/ebooks/72977
