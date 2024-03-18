@@ -1,11 +1,16 @@
 _repo: La-barca-dels-afligits-b-Marina-en-un-acte_72977
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mestres, Apel·les
     gutenberg_agent_id: '56894'
     url: http://www.gutenberg.org/2009/agents/56894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72977#La-barca-dels-afligits-b-Marina-en-un-acte
 gutenberg_issued: '2024-02-17'
 gutenberg_type: Text
 identifiers:
